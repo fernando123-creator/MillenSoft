@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 8rem;
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    background-color: #90483D ;
+    align-items: center;
+   
+}
+
+.logo{
+    border: 1px solid rgb(32, 23, 160);
+    width: 200px;
+    height: 100%;
+    margin-left: 50px;
+}
+
+.logoMS{
+    width: 100%;
+    height: 100%;
+}
+
+.content-vinculos{
+    border: 1px solid black;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hiper-vinculos{
+    display: flex;
+    border: 1px solid red;
+    list-style: none;
+}
+
+.inicio{
+    border: 1px solid black;
+    
+}
+
+.Contactanos{
+    border: 1px solid black;
+}
+
+.Nuestros-Proyectos{
+    border: 1px solid black;
+}
