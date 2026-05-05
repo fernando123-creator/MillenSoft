@@ -70,8 +70,9 @@ header{
 }
 
 .Nuestros-Proyectos{
-
-    border: 1px solid black;
+    background-color: #EBDE9A;
+    border-radius: 15px;
+    padding: 5px;
 }
 main{
     border: 3px solid rgb(255, 0, 0);
